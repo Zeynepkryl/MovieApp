@@ -16,6 +16,7 @@ public class ImageBindingAdapter {
                     .into(imageView);
             //ImageBındıng
             //test1
+            //test2
         }
     }
 }

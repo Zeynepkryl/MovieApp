@@ -15,6 +15,7 @@ public class ImageBindingAdapter {
                     .load(IMAGE_BASE_URL + IMAGE_W342 + url)
                     .into(imageView);
             //ImageBındıng
+            //test1
         }
     }
 }
